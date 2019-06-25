@@ -1,0 +1,16 @@
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\bin\Debug\Computer Cleaner.exe.config
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\bin\Debug\Computer Cleaner.exe
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\bin\Debug\Computer Cleaner.pdb
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\bin\Debug\MaterialSkin.dll
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Debug\Computer Cleaner.csprojAssemblyReference.cache
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Debug\Computer_Cleaner.Form1.resources
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Debug\Computer_Cleaner.Properties.Resources.resources
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Debug\Computer Cleaner.csproj.GenerateResource.cache
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Debug\Computer Cleaner.csproj.CoreCompileInputs.cache
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Debug\Computer Cleaner.csproj.CopyComplete
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Debug\Computer Cleaner.exe
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Debug\Computer Cleaner.pdb
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\bin\Debug\af-NA\Computer Cleaner.resources.dll
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Debug\Computer_Cleaner.Form1.af-NA.resources
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Debug\af-NA\Computer Cleaner.resources.dll

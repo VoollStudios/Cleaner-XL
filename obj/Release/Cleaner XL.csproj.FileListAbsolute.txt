@@ -1,0 +1,20 @@
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\bin\Release\Cleaner XL.exe.config
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\bin\Release\Cleaner XL.exe.manifest
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\bin\Release\Cleaner XL.application
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\bin\Release\Cleaner XL.exe
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\bin\Release\Cleaner XL.pdb
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\bin\Release\af-NA\Cleaner XL.resources.dll
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\bin\Release\Bunifu_UI_v1.5.3.dll
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\bin\Release\MaterialSkin.dll
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Release\Computer_Cleaner.Form1.resources
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Release\Computer_Cleaner.Properties.Resources.resources
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Release\Computer_Cleaner.Form1.af-NA.resources
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Release\Cleaner XL.csproj.GenerateResource.cache
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Release\Cleaner XL.csproj.CoreCompileInputs.cache
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Release\af-NA\Cleaner XL.resources.dll
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Release\Cleaner XL.exe.manifest
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Release\Cleaner XL.application
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Release\Cleaner XL.csproj.CopyComplete
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Release\Cleaner XL.exe
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Release\Cleaner XL.pdb
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Release\Computer_Cleaner.termsScreen.resources

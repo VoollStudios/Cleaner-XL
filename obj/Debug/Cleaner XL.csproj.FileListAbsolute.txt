@@ -1,0 +1,20 @@
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\bin\Debug\MaterialSkin.dll
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Debug\Cleaner XL.csprojAssemblyReference.cache
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Debug\Computer_Cleaner.Form1.resources
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Debug\Computer_Cleaner.Properties.Resources.resources
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Debug\Computer_Cleaner.Form1.af-NA.resources
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Debug\Cleaner XL.csproj.GenerateResource.cache
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Debug\Cleaner XL.csproj.CoreCompileInputs.cache
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Debug\Cleaner XL.csproj.CopyComplete
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\bin\Debug\Cleaner XL.exe.config
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\bin\Debug\Cleaner XL.exe.manifest
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\bin\Debug\Cleaner XL.application
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\bin\Debug\Cleaner XL.exe
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\bin\Debug\Cleaner XL.pdb
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\bin\Debug\af-NA\Cleaner XL.resources.dll
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Debug\af-NA\Cleaner XL.resources.dll
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Debug\Cleaner XL.exe.manifest
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Debug\Cleaner XL.application
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Debug\Cleaner XL.exe
+C:\Users\samuel\source\repos\Computer Cleaner\Computer Cleaner\obj\Debug\Cleaner XL.pdb
