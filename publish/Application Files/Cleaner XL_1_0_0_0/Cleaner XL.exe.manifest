@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Cleaner XL.exe" version="1.0.0.0" publicKeyToken="c5319b07fc131a4f" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="index.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Cleaner XL" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Cleaner XL.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Bunifu_UI_v1.5.3.dll" size="242176">
+      <assemblyIdentity name="Bunifu_UI_v1.5.3" version="1.5.3.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>8bPg8nUKkQPkampKNPHPnRd3lyX5gELMJHXsZkhIAc8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Cleaner XL.exe" size="465384">
+      <assemblyIdentity name="Cleaner XL" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>BEzvxNwxAKxlsjk87fjAz2j5VxOyUnWm9ouFKygPORg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="af-NA\Cleaner XL.resources.dll" size="9728">
+      <assemblyIdentity name="Cleaner XL.resources" version="1.0.0.0" language="af-NA" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>wZBWhBpstUHoL7WXC/+9xDfro9UYL5yoWK1sp7qNCWk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MaterialSkin.dll" size="587776">
+      <assemblyIdentity name="MaterialSkin" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>uYed8V6CxS6RZscfexd8V71MgomCGmWp0/Uiiz9ga04=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Cleaner XL.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="index.ico" size="132998">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>G/d5Kr5WBimq1q6BFctGzYbP/8uqogQiAI+fM8jmSKE=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAPTOP-L7E24JJK\samuel" issuerKeyHash="6db2a5ee768988da0d509edd2c8f155094ec0bb6" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>8T8eg831bJiiCCCUagMZB8e+4ZPDAV9oYyA5AFkm1bk=</DigestValue></Reference></SignedInfo><SignatureValue>DVkVGxKU4yoEcPwTkIz/cgbliABdSbNbPQtNAb/160UHhGfeDkX3ei4yOAjfinpMR1PaIKjqITHEOO1N7SlAe91WiPfCTQ9HnnEzG7on9H5VtVoS0ipRlZiwXeCNDVimfxcwROXadMhjzCD+t3yFgWkoLKWULBn8OdQpw76b3Rk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>25iV4fBjK0OMljsoV+l08RlTeGSgsfDFGRIOz08ZQeqkGtlFHP8eH/oax+zjfTTtJiT7rePhoaVD1hhvHSlicAJV1XzMuM1fJ6riI7NMLNmYGSwpTMYnHRR7nxr9h0aGTLVOwuNYH1ahtvIjdlV4lvaMlzZFR0Z1jMbGtJvE65E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b9d5265900392063685f01c393e1bec70719036a942008a2986cf5cd831e3ff1" Description="" Url=""><as:assemblyIdentity name="Cleaner XL.exe" version="1.0.0.0" publicKeyToken="c5319b07fc131a4f" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-L7E24JJK\samuel</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>PI/Kb5k2PdA+32DH3F01yRRF/LEurL6LTzNDcZcpw6Y=</DigestValue></Reference></SignedInfo><SignatureValue>LFTSnVpCBPza/0AtcPJiQTI/jNiB2n7qQEaAXEUeUu+WPyz1u6mvcMKOOX/pIuQvNdLUelqLKAFH7azfpP00vRT52QP1xxFFYqbqJhLkGaBiIWDQJ819rWeMOBwpys+zIdVHtLb/TN4PpGlPlK1bSvXDL2v3DMSrjYLrbVzTGr4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>25iV4fBjK0OMljsoV+l08RlTeGSgsfDFGRIOz08ZQeqkGtlFHP8eH/oax+zjfTTtJiT7rePhoaVD1hhvHSlicAJV1XzMuM1fJ6riI7NMLNmYGSwpTMYnHRR7nxr9h0aGTLVOwuNYH1ahtvIjdlV4lvaMlzZFR0Z1jMbGtJvE65E=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQf9NZ9WwEPJBDvSP8ykudNTANBgkqhkiG9w0BAQsFADA3MTUwMwYDVQQDHiwATABBAFAAVABPAFAALQBMADcARQAyADQASgBKAEsAXABzAGEAbQB1AGUAbDAeFw0xOTAzMjYwMjUyMzJaFw0yMDAzMjUwODUyMzJaMDcxNTAzBgNVBAMeLABMAEEAUABUAE8AUAAtAEwANwBFADIANABKAEoASwBcAHMAYQBtAHUAZQBsMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDbmJXh8GMrQ4yWOyhX6XTxGVN4ZKCx8MUZEg7PTxlB6qQa2UUc/x4f+hrH7ON9NO0mJPut4+GhpUPWGG8dKWJwAlXVfMy4zV8nquIjs0ws2ZgZLClMxicdFHufGv2HRoZMtU7C41gfVqG28iN2VXiW9oyXNkVHRnWMxsa0m8TrkQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAA1o7hQzy2RPpz4N+8mVRfDn4A4gNAnBYAMIKGaFC9CfDjBdJkMUVzK+xbaxR3bk3XDpJW0Db9mHn6wg4377dKR7KKk1sy8zYcNxS4xDDfVZ1u8dEJ3i+4c7OF/p47QD/CDTdzmsO09Oo/DngfewQOmUBpULU0OluHnQPh1PuvIJ</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
