@@ -1,6 +1,6 @@
 # Cleaner XL
 
-#Version 0.5
+Version 0.5
 ----------------
-Notifcation Bar Updated.
+Notifcation Bar Updated and
  More UI Updates.
